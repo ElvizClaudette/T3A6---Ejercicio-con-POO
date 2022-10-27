@@ -19,18 +19,20 @@ siguientes condiciones:
   
   ## Etapa 2. Diseño de a solución
   - Entrada:
-     - int cantidadDeEmpleados
-     - int numeroContrato
-     - String tipoDeEmpleado
-     - int añosDeAntigüeda
-     - String horastrabajas
-     - float salarioBase
-     - String nombre
-     - String apellido Paterno
-     - String RFC
-     - String CURP
-     - String email
-     - String telefono
+    - int cantidadDeEmpleados
+    - int numeroContrato
+    - String tipoDeEmpleado
+    - int añosDeAntigüeda
+    - String horastrabajas
+    - float salarioBase
+    - String nombre
+    - String apellido Paterno
+    - String RFC
+    - String CURP
+    - String email
+    - String telefono
+    
   - Proceso:
+    - Calcular la nomina de todos los empleados 
   
   - Salida:
