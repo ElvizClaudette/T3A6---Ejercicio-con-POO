@@ -36,6 +36,13 @@ siguientes condiciones:
     - Calcular la nomina de todos los empleados 
   
   - Salida:
+  ~~~
+  +-----------------------------------------------------------------+
+  |                             NOMINA                              |
+  +-----------------------------------------------------------------+
+  | NOMBRE: ELVIZ CLAUDETTE 
+  
+  ~~~
   
   ## Etapa 3. Diseño de la solución
   Diagrama de la clase
