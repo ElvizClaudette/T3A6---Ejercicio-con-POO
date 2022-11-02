@@ -36,3 +36,8 @@ siguientes condiciones:
     - Calcular la nomina de todos los empleados 
   
   - Salida:
+  
+  ## Etapa 3. Diseño de la solución
+  Diagrama de la clase
+  ![](https://github.com/ElvizClaudette/T3A6---Ejercicio-con-POO/blob/main/T3A6.png)
+  
