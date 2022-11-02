@@ -22,11 +22,11 @@ siguientes condiciones:
     - int cantidadDeEmpleados
     - int numeroContrato
     - String tipoDeEmpleado
-    - int añosDeAntigüeda
-    - String horastrabajas
+    - int añosDeAntigüedad
+    - String horastrabajadas
     - float salarioBase
     - String nombre
-    - String apellido Paterno
+    - String apellidoPaterno
     - String RFC
     - String CURP
     - String email
