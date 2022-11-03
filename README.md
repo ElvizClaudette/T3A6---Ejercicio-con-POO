@@ -40,7 +40,11 @@ siguientes condiciones:
   +-----------------------------------------------------------------+
   |                             NOMINA                              |
   +-----------------------------------------------------------------+
-  | NOMBRE: ELVIZ CLAUDETTE 
+  | NOMBRE: ELVIZ CLAUDETTE     APELLIDO PATERNO: GARRIDO           |
+  | RFC:                        CURP:                               |
+  | N° DE CONTRATO: 128         HORAS TRABAJADAS: 80 HRS            |
+  | SUCURSAL: TEZIUTLAN         SUELDO:                             |
+  +-----------------------------------------------------------------+
   
   ~~~
   
