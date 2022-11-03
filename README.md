@@ -44,6 +44,7 @@ siguientes condiciones:
   | RFC:                        CURP:                               |
   | N° DE CONTRATO: 128         HORAS TRABAJADAS: 80 HRS            |
   | SUCURSAL: TEZIUTLAN         SUELDO:                             |
+  | BONO POR ANTIGUEDAD:                                            |
   +-----------------------------------------------------------------+
   
   ~~~
